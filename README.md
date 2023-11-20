@@ -8,7 +8,7 @@
 
 - 🌱 Currently student in 3rd year at **Technical University of Cluj-Napoca**
 
-- 👨‍💻 All of my projects are available at [will be available]
+- 👨‍💻 All of my projects are available at [https://github.com/vstimo/Projects](https://github.com/vstimo/Projects)
 
 - 💬 Ask me about **OOP, FPGA prototyping, Embedded C**
 
