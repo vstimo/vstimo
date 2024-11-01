@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vstimo/Projects](https://github.com/vstimo/Projects)
 
-- 💬 Ask me about **Web Developing, Embedded C, Computer Vision**
+- 💬 Ask me about **Web Development, Embedded C, Computer Vision**
 
 - 📫 How to reach me **morar.timotei25@gmail.com**
 
