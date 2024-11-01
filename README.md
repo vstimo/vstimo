@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vstimo&label=Profile%20views&color=000000&style=flat" alt="vstimo" /> </p>
 
-- 🌱 Currently student in 3rd year at **Technical University of Cluj-Napoca**
+- 🌱 Currently student in 4th year at **Technical University of Cluj-Napoca**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vstimo/Projects](https://github.com/vstimo/Projects)
 
-- 💬 Ask me about **OOP, FPGA prototyping, Embedded C**
+- 💬 Ask me about **Web Developing, Embedded C, Computer Vision**
 
 - 📫 How to reach me **morar.timotei25@gmail.com**
 
